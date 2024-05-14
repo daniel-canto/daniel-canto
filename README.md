@@ -2,15 +2,11 @@
 <img align="right" alt="Daniel Banner" width="400" src="[https://img.odcdn.com.br/wp-content/uploads/2023/10/google-fotos.jpg](https://im.ge/i/KMIKUD)">
 
 <div align="center">
-<h2 align="center"> $\color{#FE428E}{\textsf{Repositório de projetos}}$ </h2>
+
 <a href="https://github.com/danielgomes775/github-readme-stats">
   <img height="141"  src="https://github-readme-stats.vercel.app/api/pin/?username=danielgomes775&repo=Websites_Study_Projects&theme=radical"/>
 </a>
 </div>
-
-
-
-<a> &nbsp; </a>
 
 <div align>
   <a >
