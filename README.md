@@ -1,10 +1,18 @@
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">$\color{#FE428E}{\textsf{Conecte-se comigo}}$</h3>
 
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="" height="30" width="40" /></a>
+<div align="center">
 
-</p>
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="40" width="40" /></a>
+<a> &nbsp; </a>
+<a> &nbsp; </a>
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="" height="40" width="40" /></a>
+
+</div>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielgomes775&layout=donut-vertical&theme=radical)](https://github.com/danielgomes775/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=danielgomes775&repo=Websites_Study_Projects&theme=radical)](https://github.com/danielgomes775/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielgomes775&show_icons=true&theme=radical)
 
 
