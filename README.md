@@ -1,5 +1,7 @@
+<div align = "center">
+<img align="center" alt="Daniel Banner" width="800" src="danielgomes775.png">
+</div>
 
-<img align="right" alt="Daniel Banner" width="400" src="[https://img.odcdn.com.br/wp-content/uploads/2023/10/google-fotos.jpg](https://im.ge/i/KMIKUD)">
 <p> &nbsp; </p>
 
 <div>
