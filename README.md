@@ -14,7 +14,7 @@
 </a>
 <p> &nbsp; </p>
 <a>
-  <img height="136"  align="center" src="https://github-readme-stats.vercel.app/api?username=danielgomes775&show_icons=true&theme=radical&card_width=652px" />
+  <img height="137"  align="center" src="https://github-readme-stats.vercel.app/api?username=danielgomes775&show_icons=true&theme=radical&card_width=652px" />
 </a>
 </div>
 
