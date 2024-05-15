@@ -4,13 +4,13 @@
 
 <div>
   <a >
-  <img height= 289" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielgomes775&layout=donut-vertical&theme=radical" />
+  <img height= 323" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielgomes775&layout=donut-vertical&theme=radical" />
 </a>
 
 <a href="https://github.com/danielgomes775/github-readme-stats">
-  <img height="141"  src="https://github-readme-stats.vercel.app/api/pin/?username=danielgomes775&repo=Websites_Study_Projects&theme=radical"/>
+  <img height="141"  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=danielgomes775&repo=Websites_Study_Projects&theme=radical"/>
 </a>
-
+<p> &nbsp; </p>
 <a>
   <img height="140"  align="center" src="https://github-readme-stats.vercel.app/api?username=danielgomes775&show_icons=true&theme=radical&card_width=652px" />
 </a>
