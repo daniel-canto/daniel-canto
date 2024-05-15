@@ -10,7 +10,7 @@
 </a>
 
 <a href="https://github.com/danielgomes775/github-readme-stats">
-  <img height="137"  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=danielgomes775&repo=Websites_Study_Projects&theme=radical"/>
+  <img height="137"  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=danielgomes775&repo=SAP_Study_Projects&theme=radical"/>
 </a>
 <p> &nbsp; </p>
 <a>
