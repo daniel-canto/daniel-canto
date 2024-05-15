@@ -4,15 +4,15 @@
 
 <div>
   <a >
-  <img height="400" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielgomes775&layout=donut-vertical&theme=radical" />
+  <img height= 350" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielgomes775&layout=donut-vertical&theme=radical" />
 </a>
 
 <a href="https://github.com/danielgomes775/github-readme-stats">
-  <img height="141"  src="https://github-readme-stats.vercel.app/api/pin/?username=danielgomes775&repo=Websites_Study_Projects&theme=radical"/>
+  <img height="131"  src="https://github-readme-stats.vercel.app/api/pin/?username=danielgomes775&repo=Websites_Study_Projects&theme=radical"/>
 </a>
 
 <a>
-  <img height="140" align="center" src="https://github-readme-stats.vercel.app/api?username=danielgomes775&show_icons=true&theme=radical&layout=compact" />
+  <img height="130" align="center" src="https://github-readme-stats.vercel.app/api?username=danielgomes775&show_icons=true&theme=radical&layout=compact" />
 </a>
 </div>
 
