@@ -4,7 +4,7 @@
 
 <div>
   <a >
-  <img height= 298" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielgomes775&layout=donut-vertical&theme=radical" />
+  <img height= 294" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielgomes775&layout=donut-vertical&theme=radical" />
 </a>
 
 <a href="https://github.com/danielgomes775/github-readme-stats">
