@@ -18,15 +18,15 @@
 
  <p> &nbsp; </p>
  <p> &nbsp; </p>
-  <p> &nbsp; </p>
+ <p> &nbsp; </p>
 
 
 <div align="center">
   <h3 align="center">$\color{#FE428E}{\textsf{Conecte-se comigo}}$</h3>
-  <a href="https://www.linkedin.com/in/daniel-gomes-767399234?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BwX0dk71tQwOts7PZOvvEZQ%3D%3D" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="40" width="40" /></a>
+  <a href="https://www.linkedin.com/in/daniel-gomes-767399234?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BwX0dk71tQwOts7PZOvvEZQ%3D%3D" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Daniel Linkedin" height="40" width="40"/></a>
   <a> &nbsp; </a>
   <a> &nbsp; </a>
-  <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="" height="40" width="40" /></a>
+  <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Daniel Email" height="40" width="40" /></a>
 </div>
 
 
