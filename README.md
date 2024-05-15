@@ -8,11 +8,11 @@
 </a>
 
 <a href="https://github.com/danielgomes775/github-readme-stats">
-  <img height="161"  src="https://github-readme-stats.vercel.app/api/pin/?username=danielgomes775&repo=Websites_Study_Projects&theme=radical"/>
+  <img height="151"  src="https://github-readme-stats.vercel.app/api/pin/?username=danielgomes775&repo=Websites_Study_Projects&theme=radical"/>
 </a>
 
 <a>
-  <img height="160" align="center" src="https://github-readme-stats.vercel.app/api?username=danielgomes775&show_icons=true&theme=radical&layout=compact" />
+  <img height="150" align="center" src="https://github-readme-stats.vercel.app/api?username=danielgomes775&show_icons=true&theme=radical&layout=compact" />
 </a>
 </div>
 
