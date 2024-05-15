@@ -1,6 +1,6 @@
-<div align = "center">
+<!-- <div align = "center">
 <img  alt="Daniel Banner" width="700" src="danielgomes775.png">
-</div>
+</div> -->
 
 <p> &nbsp; </p>
 
