@@ -17,9 +17,6 @@
 </div>
 
  <p> &nbsp; </p>
- <p> &nbsp; </p>
- <p> &nbsp; </p>
-
 
 <div align="center">
   <h3 align="center">$\color{#FE428E}{\textsf{Conecte-se comigo}}$</h3>
