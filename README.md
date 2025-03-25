@@ -2,9 +2,9 @@
 <img  alt="Daniel Banner" width="700" src="danielgomes775.png">
 </div> -->
 
-<p> &nbsp; </p>
+<p>
 
-<div>
+<!-- <div>
   <a >
   <img height= 314.6" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-canto&layout=donut-vertical&theme=radical" />
 </a>
@@ -16,9 +16,29 @@
 <a>
   <img height="137"  align="center" src="https://github-readme-stats.vercel.app/api?username=daniel-canto&show_icons=true&theme=radical&card_width=652px" />
 </a>
-</div>
+</div> -->
 
- <p> &nbsp; </p>
+  <a>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width=80rem height=80rem/>
+  </a>
+  
+  <a>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width=80rem height=80rem/>
+  </a>        
+
+  <a>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width=80rem height=80rem/>
+  </a>
+
+  <a>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width=80rem height=80rem/>
+  </a>
+
+  <a>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width=80rem height=80rem/>
+  </a>
+  
+ </p>
 
 <div align="center">
   <h3 align="center">$\color{#FE428E}{\textsf{Conecte-se comigo}}$</h3>
