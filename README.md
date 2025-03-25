@@ -1,30 +1,12 @@
-<!-- <div align = "center">
-<img  alt="Daniel Banner" width="700" src="danielgomes775.png">
-</div> -->
-
-<p>
-
-<!-- <div>
-  <a >
-  <img height= 314.6" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-canto&layout=donut-vertical&theme=radical" />
-</a>
-
-<a href="https://github.com/daniel-canto/github-readme-stats">
-  <img height="137"  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=daniel-canto&repo=SAP_Study_Projects&theme=radical"/>
-</a>
-<p> &nbsp; </p>
-<a>
-  <img height="137"  align="center" src="https://github-readme-stats.vercel.app/api?username=daniel-canto&show_icons=true&theme=radical&card_width=652px" />
-</a>
-</div> -->
-
+<div align="center">
+  <p>
   <a>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width=80rem height=80rem/>
+    <img src="sap.svg" width=100rem height=100rem/>
   </a>
   
   <a>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width=80rem height=80rem/>
-  </a>        
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width=80rem height=80rem/>
+  </a>      
 
   <a>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width=80rem height=80rem/>
@@ -37,8 +19,19 @@
   <a>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width=80rem height=80rem/>
   </a>
+
+  <a>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width=90rem height=90rem/>
+  </a>
+
+  <a>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width=80rem height=80rem/>
+  </a>
   
  </p>
+</div>
+
+<br>
 
 <div align="center">
   <h3 align="center">$\color{#FE428E}{\textsf{Conecte-se comigo}}$</h3>
@@ -49,5 +42,3 @@
  <a href="https://www.linkedin.com/in/daniel-gomes-767399234" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   
 </div>
-
-
